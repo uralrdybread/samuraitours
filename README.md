@@ -1,3 +1,14 @@
+For this project I wanted to adapt elements that use AI generated pictures. I used mid journey bot to generate some beautiful portraits that I then put together lengthwise to use as a background for my fictitious tour company. 
+
+To create the background I used Gimp editing software to create an initial canvas, then I added my two pictures giving space in the middle for any information I wanted to present on the website. From there it was just a matter of using brush strokes to blend the pictures into the background.
+
+![home](https://user-images.githubusercontent.com/48900828/209482568-3a8aac30-c414-431e-a71b-02ce75026e2d.PNG)
+
+The site is very basic but is still responsive and uses bootstrap 5. Viewing the site in mobile will give the user a drop-down navigation bar.
+
+![mobile](https://user-images.githubusercontent.com/48900828/209482691-a8d39bd8-a323-44c2-9993-1ca1ae944ca0.PNG)
+
+
 # Samuraitours
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
