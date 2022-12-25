@@ -1,4 +1,4 @@
-For this project I wanted to adapt elements that use AI generated pictures. I used mid journey bot to generate some beautiful portraits that I then put together lengthwise to use as a background for my fictitious tour company. 
+For this project I wanted to adapt elements from an AI BOT. I used mid journey bot to generate some beautiful portraits that I then put together lengthwise to use as a background for my fictitious tour company. 
 
 To create the background I used Gimp editing software to create an initial canvas, then I added my two pictures giving space in the middle for any information I wanted to present on the website. From there it was just a matter of using brush strokes to blend the pictures into the background.
 
