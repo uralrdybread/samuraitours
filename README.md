@@ -1,15 +1,30 @@
-For this project I wanted to adapt elements from an AI BOT. I used mid journey bot to generate some beautiful portraits that I then put together lengthwise to use as a background for my fictitious tour company. 
+# Samurai Tours
 
-To create the background I used Gimp editing software to create an initial canvas, then I added my two pictures giving space in the middle for any information I wanted to present on the website. From there it was just a matter of using brush strokes to blend the pictures into the background.
+For this project I wanted to adapt elements from an AI BOT so I used Mid Journey to generate some beautiful 
+portraits that I then put together lengthwise to use as a background for my fictitious tour company.
 
-![home](https://user-images.githubusercontent.com/48900828/209482568-3a8aac30-c414-431e-a71b-02ce75026e2d.PNG)
+To create the background I used Gimp editing software to create an initial canvas, then I added my two pictures giving space in the 
+middle for any information I wanted to present on the website. From there it was just a matter of using brush strokes to blend the 
+pictures into the background.
 
 The site is very basic but is still responsive and uses bootstrap 5. Viewing the site in mobile will give the user a drop-down navigation bar.
+## Technologies
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Screenshots
+
+![home](https://user-images.githubusercontent.com/48900828/209482568-3a8aac30-c414-431e-a71b-02ce75026e2d.PNG)
 
 ![mobile](https://user-images.githubusercontent.com/48900828/209482691-a8d39bd8-a323-44c2-9993-1ca1ae944ca0.PNG)
 
 
-# Samuraitours
+## Documentation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
